@@ -1,1 +1,1 @@
-# ResponsiveWeb
+# This is a project to help me learn the basics of responsive web design
